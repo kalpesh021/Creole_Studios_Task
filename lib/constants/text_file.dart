@@ -9,5 +9,6 @@ class AppTexts {
 //========== Home screen text
   static String homeTitle = 'Demo App';
   static String homeBtnText = 'Press to View Data';
-
+//====== Test comment
+  static String testComment = 'Test Comment';
 }
